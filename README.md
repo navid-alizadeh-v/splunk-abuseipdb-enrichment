@@ -241,8 +241,6 @@ local/abuseipdb_keys.json
 
 Use `local/abuseipdb_keys.example.json` as the template and follow the configuration format expected by the app.
 
-The real configuration file must remain private. Do not commit it, include it in a public ZIP archive, or place API keys directly in source code.
-
 Set appropriate ownership and restrictive file permissions for the Splunk service account. For example, on a Linux Splunk installation running as `splunk`:
 
 ```bash
