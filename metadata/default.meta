@@ -1,0 +1,7 @@
+[]
+access = read : [ * ]
+export = none
+
+[commands/abuseipdb]
+access = read : [ * ]
+export = system

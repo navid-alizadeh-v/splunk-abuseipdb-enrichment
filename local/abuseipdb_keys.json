@@ -1,0 +1,9 @@
+{
+  "api_keys": [
+    "api_keys_1",
+	"api_keys_2"
+  ],
+  "max_age_in_days": 90,
+  "cache_ttl_days": 7,
+  "request_timeout_seconds": 10
+}
