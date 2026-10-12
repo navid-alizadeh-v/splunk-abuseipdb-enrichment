@@ -186,7 +186,6 @@ This example demonstrates how the command handles IP addresses that should not b
 
 ![IP validation and private IP handling](docs/images/03-input-validation-and-private-ips.png)
 
-> Replace these image paths with the screenshots included in this repository. Redact API keys, tokens, internal hostnames, sensitive event data, and any information that should not be publicly disclosed.
 
 ---
 
