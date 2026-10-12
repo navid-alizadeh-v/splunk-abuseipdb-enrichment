@@ -355,14 +355,6 @@ A missing field, an unavailable API value, a skipped lookup, and an unsuccessful
 
 ## Security and Operational Considerations
 
-### Protect API credentials
-
-- Keep the real API-key configuration out of version control.
-- Use restrictive filesystem permissions.
-- Never place API keys in SPL queries, screenshots, README examples, or public issue reports.
-- Rotate credentials immediately if they are exposed.
-- Follow your organization's secret-management policies.
-
 ### Treat reputation as an investigative signal
 
 An AbuseIPDB score is one source of threat intelligence, not a definitive verdict.
